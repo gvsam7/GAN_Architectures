@@ -8,3 +8,5 @@
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
+
+- [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
